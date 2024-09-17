@@ -1,4 +1,4 @@
-Instrucciones para Usar los Modelos desde el Repositorio Git
+Instrucciones para Usar los Modelos 
 
 Clonar el Repositorio
 Para comenzar, el primer paso es clonar el repositorio Git donde se encuentran los archivos del proyecto. Esto se puede hacer desde la terminal utilizando el siguiente comando:
