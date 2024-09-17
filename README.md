@@ -5,7 +5,7 @@ Para comenzar, el primer paso es clonar el repositorio Git donde se encuentran l
 
 
 git clone <URL_DEL_REPOSITORIO>
-Reemplaza <URL_DEL_REPOSITORIO> con el enlace de tu repositorio Git.
+Reemplaza <URL_DEL_REPOSITORIO> con el enlace del repositorio Git.
 
 Instalar las Dependencias
 Este proyecto utiliza varias bibliotecas de Python para la manipulación de datos, el preprocesamiento y el entrenamiento de los modelos. Antes de ejecutar los scripts, es necesario instalar las dependencias utilizando pip. Para hacerlo, asegúrate de tener un entorno virtual o de estar en un entorno controlado, y luego ejecuta:
